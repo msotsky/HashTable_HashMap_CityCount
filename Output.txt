@@ -1,0 +1,3 @@
+Halifax 2
+Moncton 1
+New York 3

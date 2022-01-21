@@ -1,0 +1,4 @@
+Albaquerque 1
+Halifax 2
+Moncton 4
+New York 3
